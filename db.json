@@ -65,6 +65,17 @@
       "criado_em": "2024-12-02T09:30:00Z",
       "atualizado_em": "2025-01-17T15:45:00Z",
       "id": "ad1a"
+    },
+    {
+      "id_empresa": "550e8400-e29b-41d4-a716-446655440007",
+      "razao_social": "Blá Blá",
+      "cnpj": "67.890.123/0001-40",
+      "nome_fantasia": "Tum Tum",
+      "contato_gestor": "Fernanda",
+      "status": "ativo",
+      "criado_em": "2023-12-02T09:30:00Z",
+      "atualizado_em": "2023-01-17T15:45:00Z",
+      "id": "ad1a"
     }
   ]
 }
